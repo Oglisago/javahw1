@@ -44,3 +44,5 @@ target/
 mvnw
 mvnw.cmd
 pom.xml
+resources
+com.example.javahw
